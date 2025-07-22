@@ -1,5 +1,5 @@
 import java.sql.*;
-public class ConnexionPostgres {
+public class ConexionPostgres {
     public static void main(String[] args) {
         String url = "jdbc:postgresql://localhost:5433/usuario";
         String user = "postgres";
